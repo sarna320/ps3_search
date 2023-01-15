@@ -1,4 +1,6 @@
 *.exe
 *.docx
+*.pdf
+*.mkv
 .vscode/
 .git/
