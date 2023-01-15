@@ -1,0 +1,4 @@
+*.exe
+*.docx
+.vscode/
+.git/
